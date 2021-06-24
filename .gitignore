@@ -1,0 +1,9 @@
+obj
+bin
+appsettings.json
+*.db
+VSWorkspaceState.json
+.suo
+slnx.sqlite
+ProjectSettings.json
+.vs
